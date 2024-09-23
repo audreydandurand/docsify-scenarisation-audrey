@@ -1,5 +1,12 @@
-# Scénarisation interactive
-## Concept
-Couloir lumineux avec projection sur le sol. Des capteurs lumineux placés au plafond amèneront les visiteurs a interagir avec l'oeuvre. Ces capteurs lumineux affecteront la projection abstraite représentée sur le plancher. Des capteurs de mouvements seront instalés pour activer et désactiver l'audio. L'audio sera porté sur le thème de la nature.
+# Glacial par Audrey Dandurand
+## Scénarisation interactive
+### Concept
+Projection vidéo sur les murs qui représente l'environnement glacial de l'Antartique.
+Un glacier est présenté sur le sol par une projection. Le visiteur est amené à se déplacer dans l'espace et à survivre faca à la fonte des glaces. 
 
-Des formes semi-transparentes seront placées sur les murs et elles auront des capteurs de lumières à l'intérieur. des sons précis seront déclenché lorsque les visiteurs se rapprocheront des formes.
+Il sera premièrement amené à aller sur le glacier. Après un certain délais, la glace craque et tu dois te déplacer pour survivre. Les déclenchements de la fonte de glace seront effectués par la position des visiteurs dans l'espace. Tant que le visiteur ne sera pas dans un espace ciblé, il restera en vie. S'il sort du glacier, ce sera la fin pour lui. 
+
+Dès que les visiteurs sont tous morts, la projection du sol devient de plus en plus foncé comme si l'animal coulait au fond de l'eau. Un message apparaitera sur les mur pour sensibiliser le public.
+
+### Objectif
+Sensibiliser face aux enjeux du réchauffement climatique et de la perte de faune.
