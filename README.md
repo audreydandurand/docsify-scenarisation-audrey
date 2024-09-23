@@ -27,10 +27,13 @@ La technologie permet de faire réfléchir le public. Ce sujet est important, pu
 
 ## Support médiatique
 Divers médias sont utilisés pour cette installation.
-- **Projections d'animation 3D:** ils sont présents sur tous les murs et le plafond du début à la fin de l'expérience.
-- **Audio:** une ambiance de base joue durant l'expérience et plusieurs sons y sont ajoutés.
-- **Lumières DMX:** ces lumières apportent une ambiance bleautée à l'expérience.
-- **Capteur de mouvement:** celui-ci permet l'interactivité de Glacial.
+
+| Type de médias    | Intégration |
+| -------- | ------- |
+| Projections d'animation 3D  | Elles sont présentes sur tous les murs et le plafond du début à la fin de l'expérience.    |
+| Audio | Une ambiance de base joue durant l'expérience et plusieurs sons y sont ajoutés.     |
+| Lumières DMX    | Ces lumières apportent une ambiance bleautée à l'expérience.    |
+| Capteur de mouvement    |  Celui-ci permet l'interactivité de Glacial.    |
 
 ## Matériel
 - 1 Kinect
