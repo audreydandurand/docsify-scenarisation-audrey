@@ -42,7 +42,7 @@ Divers médias sont utilisés pour cette installation.
 
 | Logiciel    | Technique |
 | -------- | ------- |
-| Touch designer  | Rassemble le son et la 3d pour la projection    |
+| Touch designer  | Rassemble le son et la 3d pour effectuer la projection    |
 | Reaper | Montage sonore     |
 | Maya    | Animation 3D    |
 | QLC+    | Création des scènes lumineuses    |
