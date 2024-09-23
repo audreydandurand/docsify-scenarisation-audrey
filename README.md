@@ -53,5 +53,5 @@ Divers médias sont utilisés pour cette installation.
 
 | Système de communication  | Logiciel    | Interaction |
 | -------- | ------- |------- |
-| Protocole MIDI  |  LoopMidi  | QLC+ et Plugdata    |
+| Protocole MIDI  |  LoopMidi  | QLC+ et Plugdata  |
   
