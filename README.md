@@ -63,4 +63,4 @@ Divers médias sont utilisés pour cette installation.
 | Système de communication  | Logiciel    | Interaction |
 | -------- | ------- |------- |
 | Protocole MIDI  |  LoopMidi  | QLC+ et Plugdata  |
-| Protocole DMX  |  -  | Lumiere et logiciel  |
+| Protocole DMX  |  QLC+  | Lumiere et logiciel  |
