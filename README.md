@@ -46,7 +46,7 @@ Divers médias sont utilisés pour cette installation.
 
 ## Matériel
 - 1 Kinect
-- 6 Lumières DMX
+- 6 Lumières American DJ 5p Hex
 - 5 Projecteurs
 - 4 Haut-parleurs
 
