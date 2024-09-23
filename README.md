@@ -24,6 +24,15 @@ La technologie permet de faire réfléchir le public. Ce sujet est important, pu
 ## Planche d'ambiances sonores
 
 ## Références artistiques
+#### L'esthétique et le design
+Une palette de couleur bleuté a été choisie pour soutenir le thème de la fonte des glaciers. Celle-ci va s'appliquer autant à la lumière que les animation 3D.
+
+Les images visuelles auront un aspect plus réaliste pour sensibiliser davantage le public cible.
+
+#### Choix de références visuelles
+Les expériences interactives présentées démontrent la projection à 360 degré ainsi que la projection sur le sol. Dans les images d'exposition interactive, nous pouvons apercevoir sur le sol une vue du dessus de la mer et sur le mur, une vision de face. Ce principe est ce qui est voulu pour l'oeuvre glacial.
+
+#### Choix de références sonores
 
 ## Support médiatique
 Divers médias sont utilisés pour cette installation.
