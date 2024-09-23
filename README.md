@@ -39,8 +39,16 @@ Divers médias sont utilisés pour cette installation.
 - 4 Haut-parleurs
 
 ## Logiciel
-- Touch designer
-- Reaper
-- Maya
-- QLC+ 
+
+| Logiciel    | Technique |
+| -------- | ------- |
+| Touch designer  | Rassemble le son et la 3d pour la projection    |
+| Reaper | Montage sonore     |
+| Maya    | Animation 3D    |
+| QLC+    | Création des scènes lumineuses    |
+| Plugdata    | Création d'un lfo pour modifier les couleurs des lumières    |
+
+| Système de communication  | Logiciel    | Interaction |
+| -------- | ------- |------- |
+| Protocole MIDI  |  LoopMidi  | QLC+ et Plugdata    |
   
