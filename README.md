@@ -22,7 +22,7 @@ La technologie permet de faire réfléchir le public. Ce sujet est important, pu
 ![planche_inspiration](https://github.com/user-attachments/assets/2a5b7884-3ad7-4b26-a77a-b5fdd492b615)
 
 ## Planche d'ambiances sonores
-![type:audio](/media/cold-wind-sound-effect-127448.mp3)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xdWXvurWb2U?si=Y4n-GHaK9mWUAcEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Références artistiques
 #### L'esthétique et le design
