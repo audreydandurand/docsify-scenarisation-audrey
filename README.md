@@ -33,9 +33,10 @@ Une palette de couleur bleuté a été choisie pour soutenir le thème de la fon
 Les images visuelles auront un aspect plus réaliste pour sensibiliser davantage le public cible.
 
 #### Choix de références visuelles
-Les expériences interactives présentées démontrent la projection à 360 degré ainsi que la projection sur le sol. Dans les images d'exposition interactive, nous pouvons apercevoir sur le sol une vue du dessus de la mer et sur le mur, une vision de face. Ce principe est ce qui est voulu pour l'oeuvre glacial.
+Les expériences interactives présentées démontrent la projection à 360 degré ainsi que la projection sur le sol. Dans les images d'exposition interactive, nous pouvons apercevoir sur le sol une vue du dessus et sur le mur, une vision de face. Ce principe est ce qui est voulu pour l'oeuvre glacial.
 
 #### Choix de références sonores
+Les ambiances permettent de bien représenter le milieu dans lequel sont plongées le public.
 
 ## Support médiatique
 Divers médias sont utilisés pour cette installation.
