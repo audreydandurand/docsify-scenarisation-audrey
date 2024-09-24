@@ -17,6 +17,24 @@ L'objectif est de sensibiliser le public face aux enjeux du réchauffement clima
 La technologie permet de faire réfléchir le public. Ce sujet est important, puisque notre futur en sera impacté.
 
 ## Scénario interactif
+```mermaid
+graph TD;
+    Interaction-->Lumières;
+    Interaction-->Vidéos;
+    Interaction-->Audio;
+    Lumières-->AmbianceLumineuse[Ambiance lumineuse];
+    Audio-->AmbianceBase[Ambiance de base];
+    Craquement-->Glace;
+    Vidéos-->Craquement;
+    Vidéos-->Stable;
+    Craquement-->Glace;
+Glace-->Placement[Placement du joueur];
+Placement-->Mort;
+Placement-->Survie;
+    Survie-->Interaction;
+    Mort-->Veille;
+```
+
 
 ## Planche d'ambiances visuelles
 ![planche_inspiration](https://github.com/user-attachments/assets/2a5b7884-3ad7-4b26-a77a-b5fdd492b615)
