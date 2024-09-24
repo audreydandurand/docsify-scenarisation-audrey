@@ -27,12 +27,12 @@ graph TD;
     Craquement-->Glace;
     Vidéos-->Craquement;
     Vidéos-->Stable;
-Stable-->Interaction;
-Glace-->Placement[Placement du joueur];
-AmbianceLumineuse-->Placement[Placement du joueur];
-AmbianceBase-->Placement[Placement du joueur];
-Placement-->|Dans l'eau|Mort;
-Placement-->|Sur le glacier|Survie;
+    Stable-->Interaction;
+    Glace-->Placement[Placement du joueur];
+    AmbianceLumineuse-->Placement[Placement du joueur];
+    AmbianceBase-->Placement[Placement du joueur];
+    Placement-->|Dans l'eau|Mort;
+    Placement-->|Sur le glacier|Survie;
     Survie-->Interaction;
     Mort-->Veille;
 ```
