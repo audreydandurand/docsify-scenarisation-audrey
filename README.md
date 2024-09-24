@@ -38,7 +38,8 @@ graph TD;
 ```
 
 ## Planche d'ambiances visuelles
-![planche_inspiration](https://github.com/user-attachments/assets/2a5b7884-3ad7-4b26-a77a-b5fdd492b615)
+![planche_inspiration](https://github.com/user-attachments/assets/01781df8-59d5-48ff-80be-104d2bf0c87a)
+
 
 ## Planche d'ambiances sonores
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdWXvurWb2U?si=Y4n-GHaK9mWUAcEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
