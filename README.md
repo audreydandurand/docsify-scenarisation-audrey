@@ -24,19 +24,18 @@ graph TD;
     Interaction-->Audio;
     Lumières-->AmbianceLumineuse[Ambiance lumineuse];
     Audio-->AmbianceBase[Ambiance de base];
-    Craquement-->Glace;
-    Vidéos-->Craquement;
-    Vidéos-->Stable;
+    Craquement-->Glace[Audio de la glace];
+    Vidéos-->Craquement[Craquement de la glace];
+    Vidéos-->Stable[Glacier];
     Stable-->Interaction;
     Glace-->Placement[Placement du joueur];
     AmbianceLumineuse-->Placement[Placement du joueur];
     AmbianceBase-->Placement[Placement du joueur];
-    Placement-->|Dans l'eau|Mort;
-    Placement-->|Sur le glacier|Survie;
+    Placement-->| Dans l'eau |Mort;
+    Placement-->| Sur le glacier |Survie;
     Survie-->Interaction;
-    Mort-->Veille;
+    Mort-->Veille[Mode de veille];
 ```
-
 
 ## Planche d'ambiances visuelles
 ![planche_inspiration](https://github.com/user-attachments/assets/2a5b7884-3ad7-4b26-a77a-b5fdd492b615)
