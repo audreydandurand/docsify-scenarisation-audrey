@@ -10,15 +10,9 @@ Il n'y a aucun moyen de gagner le jeu.
 
 La salle a une ambiance bleutée durant l'expérience.
 
-| -------- | ------- |
+
 | ![projection_sol](https://github.com/user-attachments/assets/ebdf8362-4514-4275-83ae-6b5cdadec939)  | ![projection_mur_01](https://github.com/user-attachments/assets/fb2e7732-cef2-4c6e-bc01-7646b46cde0a)    |
-
-
-
-
-
-
-
+| -------- | ------- |
 
 ## Objectif
 L'objectif est de sensibiliser le public face aux enjeux du réchauffement climatique et de la perte de faune.
