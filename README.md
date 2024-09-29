@@ -81,6 +81,9 @@ Divers médias sont utilisés pour cette installation.
 - 5 Projecteurs
 - 4 Haut-parleurs
 
+![materiel](https://github.com/user-attachments/assets/03bff45a-1860-4130-9377-fe791c721f28)
+
+
 ## Logiciel
 
 | Logiciel    | Technique |
