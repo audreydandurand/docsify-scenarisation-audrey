@@ -98,3 +98,9 @@ Divers médias sont utilisés pour cette installation.
 | -------- | ------- |------- |
 | Protocole MIDI  |  LoopMidi  | QLC+ et Plugdata  |
 | Protocole DMX  |  QLC+  | Lumiere et logiciel  |
+
+## Référence
+[Pinterest](https://www.pinterest.com/)
+[Funky Forest](https://www.design-io.com/projects/funkyforest)
+[Frameless](https://frameless.com/the-experience/the-world-around-us/)
+[teamLab](https://www.teamlab.art/fr/e/lavillette/)
